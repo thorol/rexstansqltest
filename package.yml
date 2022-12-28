@@ -1,0 +1,9 @@
+package: rexstansqltest
+version: '0.0.0'
+author: 'Thomas Rolinger'
+
+
+page:
+    title: 'translate:rexstansqltest'
+    pjax: true
+
